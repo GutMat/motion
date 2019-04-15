@@ -4,8 +4,8 @@
 		id          = "businesscard"
         version     = "1.0.0" >
 
-    <name>Network App</name>
-    <description>Network Application</description>
+    <name>Motion info</name>
+    <description>Motion plugin app</description>
     <author href="" email="gutmateusz96@interia.pl">
 		Mateusz Gut
 	</author>
